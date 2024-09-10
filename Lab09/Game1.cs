@@ -9,6 +9,7 @@ namespace Lab09
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+//EimA
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
