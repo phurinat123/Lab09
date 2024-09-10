@@ -11,6 +11,7 @@ namespace Lab09
 
         //fdsgh
         //11212
+        //5555
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
