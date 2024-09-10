@@ -10,6 +10,7 @@ namespace Lab09
         private SpriteBatch _spriteBatch;
 
         //fdsgh
+        //11212
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
