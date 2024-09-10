@@ -13,6 +13,9 @@ namespace Lab09
 //meow
 
 //EimA
+        //fdsgh
+        //11212
+        //5555
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
