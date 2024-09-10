@@ -10,6 +10,8 @@ namespace Lab09
         private SpriteBatch _spriteBatch;
 
         int a;
+        int b;
+        //156551
 
         public Game1()
         {
